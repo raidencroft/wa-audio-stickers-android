@@ -17,10 +17,14 @@ Required Notice: Copyright Shirtep (https://github.com/Shirtep/WA-audio-stickers
 ## Instalar en el celular
 1. Pasa app-debug.apk al teléfono (cable, Drive, etc.).
 2. Ábrelo y permite "instalar apps desconocidas" para la app desde la que lo abres.
-3. Abre "Stickers con sonido", vincula WhatsApp Web con tu número secundario
-   (WhatsApp > Dispositivos vinculados > Vincular con número de teléfono).
+3. Abre "Stickers con sonido", vincula WhatsApp Web con tu número a usar (de preferencia usa el método de vinculación por codigo y no QR ojo es totlamente seguro libre de cualquier mala intencion)
+   (WhatsApp > Dispositivos vinculados > Vincular con número de teléfono> Ingresar Codigo). 
 4. Toca el botón 🔊 del borde derecho para abrir el panel. Mantenerlo pulsado recarga la página.
+5. Abre el chat a mandar los stickers o directamente omite esto y toca el botón 🔊, se despliega el menu y elige entre los 3 apartados de: Video, Imagen + Audio, Video o GIF + Audio.
+6. Selecciona tu video, elige el tramo (recorte) puedes usar los botones para precisión.
 
+## APK "app-debug.apk" listo para instalar
+1.
 ## Ajustes
 - MainActivity.kt > MODO_ESCRITORIO_AMPLIO: true = como "sitio de escritorio"; false = ancho del celular.
 
