@@ -36,3 +36,7 @@ A manera de evitar el proceso de compilación a quienes no cuenten con el conoci
 - Los botones de descargar .webp/.ogg del panel no funcionan dentro de la app.
 - Necesita un WebView reciente (Android System WebView actualizado en Play Store).
 - Probablemente traiga inconvenientes con la visualización en móvil el Web View: Es una primera versión y futuramente mejore para no emplear la vista de Web.   
+
+## Créditos
+- Proyecto original y scripts base: **Shirtep** ([WA-audio-stickers](https://github.com/Shirtep/WA-audio-stickers)).
+- Adaptación para Android (WebView y empaquetado): **raidencroft**.
