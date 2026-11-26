@@ -2,12 +2,12 @@
 
 App personal y no oficial: abre WhatsApp Web en un WebView e inyecta los scripts de la extensión
 "Stickers con sonido" de Shirtep (https://github.com/Shirtep/WA-audio-stickers).
-Sin relación con WhatsApp ni con Meta. Usa funciones internas de WhatsApp Web que pueden cambiar.
+Sin relación con WhatsApp ni con Meta. Usa funciones internas de WhatsApp Web que pueden cambiar con futuras actualizaciones.
 
-Licencia: PolyForm Noncommercial 1.0.0 (ver LICENSE.md). Solo uso no comercial.
+Licencia: PolyForm Noncommercial 1.0.0 (ver LICENSE.md dentro del .zip de este repositiorio). Solo uso no comercial.
 Required Notice: Copyright Shirtep (https://github.com/Shirtep/WA-audio-stickers)
 
-## Compilar el APK (en la PC)
+## Compilar el APK (en la PC) por ti mismo
 1. Instala Android Studio: https://developer.android.com/studio
 2. File > Open > elige la carpeta de este proyecto. Espera a que termine "Gradle sync"
    (descarga cosas la primera vez; acepta instalar el SDK 34 si lo pide).
