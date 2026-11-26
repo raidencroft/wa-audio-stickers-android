@@ -4,7 +4,7 @@ App personal y no oficial: abre WhatsApp Web en un WebView e inyecta los scripts
 "Stickers con sonido" de Shirtep (https://github.com/Shirtep/WA-audio-stickers).
 Sin relación con WhatsApp ni con Meta. Usa funciones internas de WhatsApp Web que pueden cambiar con futuras actualizaciones.
 
-Licencia: PolyForm Noncommercial 1.0.0 (ver LICENSE.md dentro del .zip de este repositiorio). Solo uso no comercial.
+Licencia: PolyForm Noncommercial 1.0.0 (ver LICENSE.md). Solo uso no comercial.
 Required Notice: Copyright Shirtep (https://github.com/Shirtep/WA-audio-stickers)
 
 ## Compilar el APK (en la PC) por ti mismo
@@ -22,7 +22,7 @@ Required Notice: Copyright Shirtep (https://github.com/Shirtep/WA-audio-stickers
 4. Toca el botón 🔊 del borde derecho para abrir el panel. Mantenerlo pulsado recarga la página.
 5. Abre el chat a mandar los stickers o directamente omite esto y toca el botón 🔊, se despliega el menu y elige entre los 3 apartados de: Video, Imagen + Audio, Video o GIF + Audio.
 6. Selecciona tu video, elige el tramo (recorte) puedes usar los botones para precisión.
-7. En formato decides si usar Ajustar (bordes transparentes o franjas dependiendo tu clip) ó Recortar (Automaticamente lo pone en relacion aspecto 1:1 - Cuadrado). Dale a "Calcular a opciones", cargará y de preferencia selecciona la que tiene una estrella (automáticamente viene seleccionada pero puedes elegir a criterio tuyo).
+7. En formato decides si usar Ajustar (bordes transparentes o franjas dependiendo tu clip) o Recortar (Automaticamente lo pone en relacion aspecto 1:1 - Cuadrado). Dale a "Calcular a opciones", cargará y de preferencia selecciona la que tiene una estrella (automáticamente viene seleccionada pero puedes elegir a criterio tuyo).
 8. Añade etiqueta de Autoria y un tag para el "Paquete del sticker"
 9. Selecciona "Crear Sticker" navega en la opciones y decide si quieres enviar al chat abierto o a ti mismo. Se enviará y listo tu sticker con audio.
 
